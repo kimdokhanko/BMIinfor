@@ -14,7 +14,7 @@ public class BMIRun {
 			break;
 		case 3 : 
 			sFunc.printBye();
-			break;
+			break EXIT; 
 		default :
 			sFunc.printExit();
 			break;
